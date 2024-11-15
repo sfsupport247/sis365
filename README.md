@@ -27,4 +27,22 @@ For questions, feedback, or suggestions:
 
 GitHub: sfsupport247
 Email: contact@sfsupport247.com
+----------------------------------------------------------------------------------------------------------------------
+
+1. Clone GitHub repository
+git clone https://github.com/sfsupport247/sis365.git
+cd sis365
+
+2. For windows
+   mkdir CourseManagement
+mkdir CourseManagement\DataverseTables
+mkdir CourseManagement\PowerApps
+mkdir CourseManagement\PowerAutomateFlows
+mkdir CourseManagement\OtherFiles
+mkdir CourseManagement
+echo. > CourseManagement\README.md
+
+
+
+
 
