@@ -1,48 +1,21 @@
 # sis365
-Student Information System
 
-sis365 is a modular Student Information System (SIS) built using Microsoft Power Platform. 
+**sis365** is a modular Student Information System (SIS) developed using Microsoft's Power Platform. The project aims to streamline educational processes with a focus on scalability, automation, and user-friendliness.
 
-## Current Module:
-- **Course Management**: Streamlines the management of courses, instructors, and enrollments.
+## Modules
+- **Course Management**: Manage courses, instructors, and student enrollments.
+- **Student Enrollment** (Upcoming): Simplify onboarding and registration processes for students.
 
-Technologies Used
-Microsoft Power Platform:
-Power Apps, Dataverse, and Power Automate.
-Copilot/Agent:
-AI-powered features to enhance efficiency and automation.
+## Features
+- Modular design to add multiple SIS functionalities.
+- Power Platform integration for ease of development and deployment.
+- AI and automation support using Microsoft Copilot.
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/sfsupport247/sis365.git
-Navigate to the Course Management folder.
-Import the Power Platform solution into your environment.
-Configure necessary connections (Dataverse, Power Automate).
+## Getting Started
+To get started, explore the [Course Management](CourseManagement/) module or contribute to the project.
 
+## Contributing
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
 
-Contact
-For questions, feedback, or suggestions:
-
-GitHub: sfsupport247
-Email: contact@sfsupport247.com
-----------------------------------------------------------------------------------------------------------------------
-
-1. Clone GitHub repository
-git clone https://github.com/sfsupport247/sis365.git
-cd sis365
-
-2. For windows
-   mkdir CourseManagement
-mkdir CourseManagement\DataverseTables
-mkdir CourseManagement\PowerApps
-mkdir CourseManagement\PowerAutomateFlows
-mkdir CourseManagement\OtherFiles
-mkdir CourseManagement
-echo. > CourseManagement\README.md
-
-
-
-
-
+## License
+This project is licensed under the [MIT License](LICENSE).
