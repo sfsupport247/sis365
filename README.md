@@ -1,7 +1,10 @@
 # sis365
 Student Information System
 
-Welcome to the sis365 repository, featuring the Course Management project. This solution is built on Microsoft Power Platform with Copilot/Agent capabilities to streamline course-related processes for educational institutions. It is designed to provide an efficient, user-friendly, and AI-enabled platform for managing courses, instructors, and student enrollments.
+sis365 is a modular Student Information System (SIS) built using Microsoft Power Platform. 
+
+## Current Module:
+- **Course Management**: Streamlines the management of courses, instructors, and enrollments.
 
 Technologies Used
 Microsoft Power Platform:
